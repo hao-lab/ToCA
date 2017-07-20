@@ -1,0 +1,1 @@
+nohup python3 -u test.py > flush.log 2>&1 &
